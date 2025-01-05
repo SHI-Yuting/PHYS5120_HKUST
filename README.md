@@ -5,7 +5,11 @@ I believe it’s a shame to miss out on this valuable course, but I also underst
 
 Please note the following:
 
-I have not received an A+ in this course, and my answers may not be 100% correct. I encourage you to apply your own critical thinking.
-In one of the assignments, I scored 60/100, so please approach the material with care.
-I will not be sharing the source codes, but I will provide some results and processes to help you gauge whether your answers might be correct.
+· I have not received an A+ in this course, and my answers may not be 100% correct. I encourage you to apply your own critical thinking.
+
+· In one of the assignments, I scored 60/100, so please approach the material with care.
+
+· I will not be sharing the source codes, but I will provide some results and processes to help you gauge whether your answers might be correct.
+
+· If you could not open the pdf file on the web, you may download it.
 
