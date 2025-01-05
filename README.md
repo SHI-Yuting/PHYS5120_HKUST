@@ -1,5 +1,5 @@
 # PHYS5120_HKUST
-I wanted to share some insights regarding the homework for PHYS5120, taught by Prof. Pan. This course is quite interesting, and I believe you can learn a lot from it. However, I want to highlight that the homework workload can be quite substantial. Many students, including PhD candidates, have expressed concerns about it, leading some to drop the course, receive lower scores, or spend excessive time on assignments (like I did).
+I wanted to share some insights regarding the homework for PHYS5120, taught by Prof. Pan. This course is quite interesting, and I believe you can learn a lot from it. However, I want to highlight that the homework workload can be quite substantial. Many students, including PhD students, have expressed concerns about it, leading some to drop the course, receive lower scores, or spend excessive time on assignments (like I did).
 
 I believe it’s a shame to miss out on this valuable course, but I also understand the importance of managing our time effectively. To help alleviate some of the stress, I plan to share my results and thoughts on the homework. This way, PhD students and others can enjoy the course without being overly worried about the homework.
 
