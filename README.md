@@ -1,11 +1,11 @@
 # PHYS5120_HKUST
-Some homework for PHYS5120 in HKUST. The PHYS5120 held by Prof.PAN is a quite interesting course and I am sure you can learn a lot from this course. However, the workload of the homework is also quite big so there are many students including PHD students worried about it and thus they quited the course or got a low score or spent a lot of time on the homework(like me). I think it's a shame not to have listened to this lesson, but it's also not good to spend too much time on it. So I want to show some results and thinking about the homework, then for PHD students, they can enjoy the course without the worrying about the homework.
+I wanted to share some insights regarding the homework for PHYS5120, taught by Prof. Pan. This course is quite interesting, and I believe you can learn a lot from it. However, I want to highlight that the homework workload can be quite substantial. Many students, including PhD candidates, have expressed concerns about it, leading some to drop the course, receive lower scores, or spend excessive time on assignments (like I did).
 
-There are something noted:
+I believe it’s a shame to miss out on this valuable course, but I also understand the importance of managing our time effectively. To help alleviate some of the stress, I plan to share my results and thoughts on the homework. This way, PhD students and others can enjoy the course without being overly worried about the homework.
 
--I haven't a A+ in the course and my answer is not 100% correct, you need to apply your own thinking;
+Please note the following:
 
--I only get 60/100 in one of these assignments. So you need to be careful.
-
--I will not show the source codes, I only show some results and process to help you know that maybe your answer is correct.
+I have not received an A+ in this course, and my answers may not be 100% correct. I encourage you to apply your own critical thinking.
+In one of the assignments, I scored 60/100, so please approach the material with care.
+I will not be sharing the source codes, but I will provide some results and processes to help you gauge whether your answers might be correct.
 
